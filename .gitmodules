@@ -1,0 +1,732 @@
+[submodule "3sharks.com"]
+	path = 3sharks.com
+	url = git@github.com:creationix/3sharks.com.git
+[submodule "adventure"]
+	path = adventure
+	url = git@github.com:creationix/adventure.git
+[submodule "ar-joy"]
+	path = ar-joy
+	url = git@github.com:creationix/ar-joy.git
+[submodule "basic-games"]
+	path = basic-games
+	url = git@github.com:creationix/basic-games.git
+[submodule "bench-suite"]
+	path = bench-suite
+	url = git@github.com:creationix/bench-suite.git
+[submodule "blanket"]
+	path = blanket
+	url = git@github.com:creationix/blanket.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:creationix/blog.git
+[submodule "bodec"]
+	path = bodec
+	url = git@github.com:creationix/bodec.git
+[submodule "bops-browser"]
+	path = bops-browser
+	url = git@github.com:creationix/bops-browser.git
+[submodule "boxcode"]
+	path = boxcode
+	url = git@github.com:creationix/boxcode.git
+[submodule "branch-test"]
+	path = branch-test
+	url = git@github.com:creationix/branch-test.git
+[submodule "brozula"]
+	path = brozula
+	url = git@github.com:creationix/brozula.git
+[submodule "bson-luajit"]
+	path = bson-luajit
+	url = git@github.com:creationix/bson-luajit.git
+[submodule "btest"]
+	path = btest
+	url = git@github.com:creationix/btest.git
+[submodule "buffer-tools"]
+	path = buffer-tools
+	url = git@github.com:creationix/buffer-tools.git
+[submodule "builder"]
+	path = builder
+	url = git@github.com:creationix/builder.git
+[submodule "Calix"]
+	path = Calix
+	url = git@github.com:creationix/Calix.git
+[submodule "candor.io"]
+	path = candor.io
+	url = git@github.com:creationix/candor.io.git
+[submodule "candor.js"]
+	path = candor.js
+	url = git@github.com:creationix/candor.js.git
+[submodule "canvasclock"]
+	path = canvasclock
+	url = git@github.com:creationix/canvasclock.git
+[submodule "carallel"]
+	path = carallel
+	url = git@github.com:creationix/carallel.git
+[submodule "cell"]
+	path = cell
+	url = git@github.com:creationix/cell.git
+[submodule "chrome-app-module-loader"]
+	path = chrome-app-module-loader
+	url = git@github.com:creationix/chrome-app-module-loader.git
+[submodule "coffeepot"]
+	path = coffeepot
+	url = git@github.com:creationix/coffeepot.git
+[submodule "colorspin"]
+	path = colorspin
+	url = git@github.com:creationix/colorspin.git
+[submodule "conductor"]
+	path = conductor
+	url = git@github.com:creationix/conductor.git
+[submodule "conquest"]
+	path = conquest
+	url = git@github.com:creationix/conquest.git
+[submodule "continuable"]
+	path = continuable
+	url = git@github.com:creationix/continuable.git
+[submodule "corn"]
+	path = corn
+	url = git@github.com:creationix/corn.git
+[submodule "couch-client"]
+	path = couch-client
+	url = git@github.com:creationix/couch-client.git
+[submodule "creationix"]
+	path = creationix
+	url = git@github.com:creationix/creationix.git
+[submodule "creationix.com"]
+	path = creationix.com
+	url = git@github.com:creationix/creationix.com.git
+[submodule "detectindent"]
+	path = detectindent
+	url = git@github.com:creationix/detectindent.git
+[submodule "divclock"]
+	path = divclock
+	url = git@github.com:creationix/divclock.git
+[submodule "do"]
+	path = do
+	url = git@github.com:creationix/do.git
+[submodule "dombuilder"]
+	path = dombuilder
+	url = git@github.com:creationix/dombuilder.git
+[submodule "domlog"]
+	path = domlog
+	url = git@github.com:creationix/domlog.git
+[submodule "drawings"]
+	path = drawings
+	url = git@github.com:creationix/drawings.git
+[submodule "dublin-talk"]
+	path = dublin-talk
+	url = git@github.com:creationix/dublin-talk.git
+[submodule "dukluv"]
+	path = dukluv
+	url = git@github.com:creationix/dukluv.git
+[submodule "embedder"]
+	path = embedder
+	url = git@github.com:creationix/embedder.git
+[submodule "embedder-sync"]
+	path = embedder-sync
+	url = git@github.com:creationix/embedder-sync.git
+[submodule "event-watcher"]
+	path = event-watcher
+	url = git@github.com:creationix/event-watcher.git
+[submodule "eventemitter-browser"]
+	path = eventemitter-browser
+	url = git@github.com:creationix/eventemitter-browser.git
+[submodule "events-stream"]
+	path = events-stream
+	url = git@github.com:creationix/events-stream.git
+[submodule "experiments"]
+	path = experiments
+	url = git@github.com:creationix/experiments.git
+[submodule "exploder"]
+	path = exploder
+	url = git@github.com:creationix/exploder.git
+[submodule "fastqueue"]
+	path = fastqueue
+	url = git@github.com:creationix/fastqueue.git
+[submodule "fbox"]
+	path = fbox
+	url = git@github.com:creationix/fbox.git
+[submodule "filehost"]
+	path = filehost
+	url = git@github.com:creationix/filehost.git
+[submodule "files-node"]
+	path = files-node
+	url = git@github.com:creationix/files-node.git
+[submodule "firmata-chrome"]
+	path = firmata-chrome
+	url = git@github.com:creationix/firmata-chrome.git
+[submodule "foobar"]
+	path = foobar
+	url = git@github.com:creationix/foobar.git
+[submodule "gamekit"]
+	path = gamekit
+	url = git@github.com:creationix/gamekit.git
+[submodule "gedit-stuff"]
+	path = gedit-stuff
+	url = git@github.com:creationix/gedit-stuff.git
+[submodule "gen-run"]
+	path = gen-run
+	url = git@github.com:creationix/gen-run.git
+[submodule "gen-test"]
+	path = gen-test
+	url = git@github.com:creationix/gen-test.git
+[submodule "giblush"]
+	path = giblush
+	url = git@github.com:creationix/giblush.git
+[submodule "gisty"]
+	path = gisty
+	url = git@github.com:creationix/gisty.git
+[submodule "git-browser"]
+	path = git-browser
+	url = git@github.com:creationix/git-browser.git
+[submodule "git-chrome-fs"]
+	path = git-chrome-fs
+	url = git@github.com:creationix/git-chrome-fs.git
+[submodule "git-chrome-local-db"]
+	path = git-chrome-local-db
+	url = git@github.com:creationix/git-chrome-local-db.git
+[submodule "git-chromeapp-platform"]
+	path = git-chromeapp-platform
+	url = git@github.com:creationix/git-chromeapp-platform.git
+[submodule "git-cms"]
+	path = git-cms
+	url = git@github.com:creationix/git-cms.git
+[submodule "git-db-fs"]
+	path = git-db-fs
+	url = git@github.com:creationix/git-db-fs.git
+[submodule "git-fetch"]
+	path = git-fetch
+	url = git@github.com:creationix/git-fetch.git
+[submodule "git-fs-db"]
+	path = git-fs-db
+	url = git@github.com:creationix/git-fs-db.git
+[submodule "git-fs-html5"]
+	path = git-fs-html5
+	url = git@github.com:creationix/git-fs-html5.git
+[submodule "git-http"]
+	path = git-http
+	url = git@github.com:creationix/git-http.git
+[submodule "git-http-proto"]
+	path = git-http-proto
+	url = git@github.com:creationix/git-http-proto.git
+[submodule "git-hydrate-pack"]
+	path = git-hydrate-pack
+	url = git@github.com:creationix/git-hydrate-pack.git
+[submodule "git-localdb"]
+	path = git-localdb
+	url = git@github.com:creationix/git-localdb.git
+[submodule "git-memdb"]
+	path = git-memdb
+	url = git@github.com:creationix/git-memdb.git
+[submodule "git-mozapp-platform"]
+	path = git-mozapp-platform
+	url = git@github.com:creationix/git-mozapp-platform.git
+[submodule "git-net"]
+	path = git-net
+	url = git@github.com:creationix/git-net.git
+[submodule "git-node"]
+	path = git-node
+	url = git@github.com:creationix/git-node.git
+[submodule "git-node-platform"]
+	path = git-node-platform
+	url = git@github.com:creationix/git-node-platform.git
+[submodule "git-pack-codec"]
+	path = git-pack-codec
+	url = git@github.com:creationix/git-pack-codec.git
+[submodule "git-parse-pack"]
+	path = git-parse-pack
+	url = git@github.com:creationix/git-parse-pack.git
+[submodule "git-pkt-line"]
+	path = git-pkt-line
+	url = git@github.com:creationix/git-pkt-line.git
+[submodule "git-proxy"]
+	path = git-proxy
+	url = git@github.com:creationix/git-proxy.git
+[submodule "git-publish-http"]
+	path = git-publish-http
+	url = git@github.com:creationix/git-publish-http.git
+[submodule "git-publisher"]
+	path = git-publisher
+	url = git@github.com:creationix/git-publisher.git
+[submodule "git-repo"]
+	path = git-repo
+	url = git@github.com:creationix/git-repo.git
+[submodule "git-sha1"]
+	path = git-sha1
+	url = git@github.com:creationix/git-sha1.git
+[submodule "git-ssh-proto"]
+	path = git-ssh-proto
+	url = git@github.com:creationix/git-ssh-proto.git
+[submodule "git-tcp-proto"]
+	path = git-tcp-proto
+	url = git@github.com:creationix/git-tcp-proto.git
+[submodule "git-tree"]
+	path = git-tree
+	url = git@github.com:creationix/git-tree.git
+[submodule "git-web-platform"]
+	path = git-web-platform
+	url = git@github.com:creationix/git-web-platform.git
+[submodule "git-zlib"]
+	path = git-zlib
+	url = git@github.com:creationix/git-zlib.git
+[submodule "github-mount"]
+	path = github-mount
+	url = git@github.com:creationix/github-mount.git
+[submodule "gospel-git-library"]
+	path = gospel-git-library
+	url = git@github.com:creationix/gospel-git-library.git
+[submodule "gospel-library"]
+	path = gospel-library
+	url = git@github.com:creationix/gospel-library.git
+[submodule "grain"]
+	path = grain
+	url = git@github.com:creationix/grain.git
+[submodule "gyp"]
+	path = gyp
+	url = git@github.com:creationix/gyp.git
+[submodule "haml-js"]
+	path = haml-js
+	url = git@github.com:creationix/haml-js.git
+[submodule "heart"]
+	path = heart
+	url = git@github.com:creationix/heart.git
+[submodule "hexes"]
+	path = hexes
+	url = git@github.com:creationix/hexes.git
+[submodule "howtonode.org"]
+	path = howtonode.org
+	url = git@github.com:creationix/howtonode.org.git
+[submodule "html-linker"]
+	path = html-linker
+	url = git@github.com:creationix/html-linker.git
+[submodule "http-codec"]
+	path = http-codec
+	url = git@github.com:creationix/http-codec.git
+[submodule "http-parser-js"]
+	path = http-parser-js
+	url = git@github.com:creationix/http-parser-js.git
+[submodule "iconbutton"]
+	path = iconbutton
+	url = git@github.com:creationix/iconbutton.git
+[submodule "indite"]
+	path = indite
+	url = git@github.com:creationix/indite.git
+[submodule "ivy"]
+	path = ivy
+	url = git@github.com:creationix/ivy.git
+[submodule "ivy-bin"]
+	path = ivy-bin
+	url = git@github.com:creationix/ivy-bin.git
+[submodule "jack"]
+	path = jack
+	url = git@github.com:creationix/jack.git
+[submodule "jack-old"]
+	path = jack-old
+	url = git@github.com:creationix/jack-old.git
+[submodule "jackdaddygame"]
+	path = jackdaddygame
+	url = git@github.com:creationix/jackdaddygame.git
+[submodule "jidget"]
+	path = jidget
+	url = git@github.com:creationix/jidget.git
+[submodule "jon-parse"]
+	path = jon-parse
+	url = git@github.com:creationix/jon-parse.git
+[submodule "jquery-haml"]
+	path = jquery-haml
+	url = git@github.com:creationix/jquery-haml.git
+[submodule "js-git"]
+	path = js-git
+	url = git@github.com:creationix/js-git.git
+[submodule "js-git-app"]
+	path = js-git-app
+	url = git@github.com:creationix/js-git-app.git
+[submodule "js-git-node-platform"]
+	path = js-git-node-platform
+	url = git@github.com:creationix/js-git-node-platform.git
+[submodule "js-github"]
+	path = js-github
+	url = git@github.com:creationix/js-github.git
+[submodule "js-linker"]
+	path = js-linker
+	url = git@github.com:creationix/js-linker.git
+[submodule "jsconfbr2014"]
+	path = jsconfbr2014
+	url = git@github.com:creationix/jsconfbr2014.git
+[submodule "jsgit"]
+	path = jsgit
+	url = git@github.com:creationix/jsgit.git
+[submodule "jsgit-pull"]
+	path = jsgit-pull
+	url = git@github.com:creationix/jsgit-pull.git
+[submodule "jsonparse"]
+	path = jsonparse
+	url = git@github.com:creationix/jsonparse.git
+[submodule "leb128-frame"]
+	path = leb128-frame
+	url = git@github.com:creationix/leb128-frame.git
+[submodule "LESS.tmbundle"]
+	path = LESS.tmbundle
+	url = git@github.com:creationix/LESS.tmbundle.git
+[submodule "lhttp_parser"]
+	path = lhttp_parser
+	url = git@github.com:creationix/lhttp_parser.git
+[submodule "local-fs-mount"]
+	path = local-fs-mount
+	url = git@github.com:creationix/local-fs-mount.git
+[submodule "luaglfwapp"]
+	path = luaglfwapp
+	url = git@github.com:creationix/luaglfwapp.git
+[submodule "luv"]
+	path = luv
+	url = git@github.com:creationix/luv.git
+[submodule "luv-chat"]
+	path = luv-chat
+	url = git@github.com:creationix/luv-chat.git
+[submodule "luvit"]
+	path = luvit
+	url = git@github.com:creationix/luvit.git
+[submodule "luvit-gl"]
+	path = luvit-gl
+	url = git@github.com:creationix/luvit-gl.git
+[submodule "luvit-server"]
+	path = luvit-server
+	url = git@github.com:creationix/luvit-server.git
+[submodule "luvitgl"]
+	path = luvitgl
+	url = git@github.com:creationix/luvitgl.git
+[submodule "luvmonkey"]
+	path = luvmonkey
+	url = git@github.com:creationix/luvmonkey.git
+[submodule "makeit"]
+	path = makeit
+	url = git@github.com:creationix/makeit.git
+[submodule "mega"]
+	path = mega
+	url = git@github.com:creationix/mega.git
+[submodule "microtemplates"]
+	path = microtemplates
+	url = git@github.com:creationix/microtemplates.git
+[submodule "milk"]
+	path = milk
+	url = git@github.com:creationix/milk.git
+[submodule "min-fs"]
+	path = min-fs
+	url = git@github.com:creationix/min-fs.git
+[submodule "min-stream"]
+	path = min-stream
+	url = git@github.com:creationix/min-stream.git
+[submodule "min-stream-chrome"]
+	path = min-stream-chrome
+	url = git@github.com:creationix/min-stream-chrome.git
+[submodule "min-stream-node"]
+	path = min-stream-node
+	url = git@github.com:creationix/min-stream-node.git
+[submodule "min-stream-uv"]
+	path = min-stream-uv
+	url = git@github.com:creationix/min-stream-uv.git
+[submodule "min-tcp"]
+	path = min-tcp
+	url = git@github.com:creationix/min-tcp.git
+[submodule "mine"]
+	path = mine
+	url = git@github.com:creationix/mine.git
+[submodule "moonslice"]
+	path = moonslice
+	url = git@github.com:creationix/moonslice.git
+[submodule "moonslice-luv"]
+	path = moonslice-luv
+	url = git@github.com:creationix/moonslice-luv.git
+[submodule "moonslice-node"]
+	path = moonslice-node
+	url = git@github.com:creationix/moonslice-node.git
+[submodule "moonslice-talk"]
+	path = moonslice-talk
+	url = git@github.com:creationix/moonslice-talk.git
+[submodule "movies"]
+	path = movies
+	url = git@github.com:creationix/movies.git
+[submodule "msgpack-js"]
+	path = msgpack-js
+	url = git@github.com:creationix/msgpack-js.git
+[submodule "msgpack-js-browser"]
+	path = msgpack-js-browser
+	url = git@github.com:creationix/msgpack-js-browser.git
+[submodule "my-filters"]
+	path = my-filters
+	url = git@github.com:creationix/my-filters.git
+[submodule "my-module"]
+	path = my-module
+	url = git@github.com:creationix/my-module.git
+[submodule "nko-test"]
+	path = nko-test
+	url = git@github.com:creationix/nko-test.git
+[submodule "node-blog"]
+	path = node-blog
+	url = git@github.com:creationix/node-blog.git
+[submodule "node-gir"]
+	path = node-gir
+	url = git@github.com:creationix/node-gir.git
+[submodule "node-git"]
+	path = node-git
+	url = git@github.com:creationix/node-git.git
+[submodule "node-leveldb"]
+	path = node-leveldb
+	url = git@github.com:creationix/node-leveldb.git
+[submodule "node-persistence"]
+	path = node-persistence
+	url = git@github.com:creationix/node-persistence.git
+[submodule "node-router"]
+	path = node-router
+	url = git@github.com:creationix/node-router.git
+[submodule "node-sdl"]
+	path = node-sdl
+	url = git@github.com:creationix/node-sdl.git
+[submodule "node-tar"]
+	path = node-tar
+	url = git@github.com:creationix/node-tar.git
+[submodule "node-topcloud-chat"]
+	path = node-topcloud-chat
+	url = git@github.com:creationix/node-topcloud-chat.git
+[submodule "node-web"]
+	path = node-web
+	url = git@github.com:creationix/node-web.git
+[submodule "node-webgl"]
+	path = node-webgl
+	url = git@github.com:creationix/node-webgl.git
+[submodule "nodeconf2012"]
+	path = nodeconf2012
+	url = git@github.com:creationix/nodeconf2012.git
+[submodule "nstore"]
+	path = nstore
+	url = git@github.com:creationix/nstore.git
+[submodule "nstore-session"]
+	path = nstore-session
+	url = git@github.com:creationix/nstore-session.git
+[submodule "numbercatcher"]
+	path = numbercatcher
+	url = git@github.com:creationix/numbercatcher.git
+[submodule "nvm"]
+	path = nvm
+	url = git@github.com:creationix/nvm.git
+[submodule "panoramas"]
+	path = panoramas
+	url = git@github.com:creationix/panoramas.git
+[submodule "pathjoin"]
+	path = pathjoin
+	url = git@github.com:creationix/pathjoin.git
+[submodule "pattern"]
+	path = pattern
+	url = git@github.com:creationix/pattern.git
+[submodule "postgres-js"]
+	path = postgres-js
+	url = git@github.com:creationix/postgres-js.git
+[submodule "proto"]
+	path = proto
+	url = git@github.com:creationix/proto.git
+[submodule "push-to-pull"]
+	path = push-to-pull
+	url = git@github.com:creationix/push-to-pull.git
+[submodule "rack-php"]
+	path = rack-php
+	url = git@github.com:creationix/rack-php.git
+[submodule "rec"]
+	path = rec
+	url = git@github.com:creationix/rec.git
+[submodule "redact"]
+	path = redact
+	url = git@github.com:creationix/redact.git
+[submodule "refresh"]
+	path = refresh
+	url = git@github.com:creationix/refresh.git
+[submodule "safereturn"]
+	path = safereturn
+	url = git@github.com:creationix/safereturn.git
+[submodule "scraperdemo"]
+	path = scraperdemo
+	url = git@github.com:creationix/scraperdemo.git
+[submodule "seekable"]
+	path = seekable
+	url = git@github.com:creationix/seekable.git
+[submodule "sftp-server"]
+	path = sftp-server
+	url = git@github.com:creationix/sftp-server.git
+[submodule "sha1-digest"]
+	path = sha1-digest
+	url = git@github.com:creationix/sha1-digest.git
+[submodule "simple-fs"]
+	path = simple-fs
+	url = git@github.com:creationix/simple-fs.git
+[submodule "simple-mime"]
+	path = simple-mime
+	url = git@github.com:creationix/simple-mime.git
+[submodule "simple-stream-helpers"]
+	path = simple-stream-helpers
+	url = git@github.com:creationix/simple-stream-helpers.git
+[submodule "simple-tcp"]
+	path = simple-tcp
+	url = git@github.com:creationix/simple-tcp.git
+[submodule "SkimMilk"]
+	path = SkimMilk
+	url = git@github.com:creationix/SkimMilk.git
+[submodule "slither"]
+	path = slither
+	url = git@github.com:creationix/slither.git
+[submodule "sniffit"]
+	path = sniffit
+	url = git@github.com:creationix/sniffit.git
+[submodule "sousaball"]
+	path = sousaball
+	url = git@github.com:creationix/sousaball.git
+[submodule "sousaball-levels"]
+	path = sousaball-levels
+	url = git@github.com:creationix/sousaball-levels.git
+[submodule "splitview"]
+	path = splitview
+	url = git@github.com:creationix/splitview.git
+[submodule "stack"]
+	path = stack
+	url = git@github.com:creationix/stack.git
+[submodule "staff"]
+	path = staff
+	url = git@github.com:creationix/staff.git
+[submodule "step"]
+	path = step
+	url = git@github.com:creationix/step.git
+[submodule "step-run"]
+	path = step-run
+	url = git@github.com:creationix/step-run.git
+[submodule "sub-stream"]
+	path = sub-stream
+	url = git@github.com:creationix/sub-stream.git
+[submodule "tabview"]
+	path = tabview
+	url = git@github.com:creationix/tabview.git
+[submodule "tedit"]
+	path = tedit
+	url = git@github.com:creationix/tedit.git
+[submodule "tedit-app"]
+	path = tedit-app
+	url = git@github.com:creationix/tedit-app.git
+[submodule "tedit-build"]
+	path = tedit-build
+	url = git@github.com:creationix/tedit-build.git
+[submodule "tedit-chromecast"]
+	path = tedit-chromecast
+	url = git@github.com:creationix/tedit-chromecast.git
+[submodule "tedit-test"]
+	path = tedit-test
+	url = git@github.com:creationix/tedit-test.git
+[submodule "terminal"]
+	path = terminal
+	url = git@github.com:creationix/terminal.git
+[submodule "tesit-test"]
+	path = tesit-test
+	url = git@github.com:creationix/tesit-test.git
+[submodule "test-repo"]
+	path = test-repo
+	url = git@github.com:creationix/test-repo.git
+[submodule "test8"]
+	path = test8
+	url = git@github.com:creationix/test8.git
+[submodule "ticker"]
+	path = ticker
+	url = git@github.com:creationix/ticker.git
+[submodule "tim-task"]
+	path = tim-task
+	url = git@github.com:creationix/tim-task.git
+[submodule "topcloud"]
+	path = topcloud
+	url = git@github.com:creationix/topcloud.git
+[submodule "topcube"]
+	path = topcube
+	url = git@github.com:creationix/topcube.git
+[submodule "treeview"]
+	path = treeview
+	url = git@github.com:creationix/treeview.git
+[submodule "tty"]
+	path = tty
+	url = git@github.com:creationix/tty.git
+[submodule "utahjs-2012"]
+	path = utahjs-2012
+	url = git@github.com:creationix/utahjs-2012.git
+[submodule "uvrun"]
+	path = uvrun
+	url = git@github.com:creationix/uvrun.git
+[submodule "vfs-git"]
+	path = vfs-git
+	url = git@github.com:creationix/vfs-git.git
+[submodule "vimrc"]
+	path = vimrc
+	url = git@github.com:creationix/vimrc.git
+[submodule "web-log"]
+	path = web-log
+	url = git@github.com:creationix/web-log.git
+[submodule "web-send"]
+	path = web-send
+	url = git@github.com:creationix/web-send.git
+[submodule "web-socket"]
+	path = web-socket
+	url = git@github.com:creationix/web-socket.git
+[submodule "webfs"]
+	path = webfs
+	url = git@github.com:creationix/webfs.git
+[submodule "webOS_IDE"]
+	path = webOS_IDE
+	url = git@github.com:creationix/webOS_IDE.git
+[submodule "websocket"]
+	path = websocket
+	url = git@github.com:creationix/websocket.git
+[submodule "websocket-tcp-client"]
+	path = websocket-tcp-client
+	url = git@github.com:creationix/websocket-tcp-client.git
+[submodule "wheat"]
+	path = wheat
+	url = git@github.com:creationix/wheat.git
+[submodule "world-db"]
+	path = world-db
+	url = git@github.com:creationix/world-db.git
+[submodule "writable-source"]
+	path = writable-source
+	url = git@github.com:creationix/writable-source.git
+[submodule "kernel"]
+	path = kernel
+	url = git@github.com:luvit/kernel.git
+[submodule "logo"]
+	path = logo
+	url = git@github.com:luvit/logo.git
+[submodule "ltin"]
+	path = ltin
+	url = git@github.com:luvit/ltin.git
+[submodule "luajit-2.0"]
+	path = luajit-2.0
+	url = git@github.com:luvit/luajit-2.0.git
+[submodule "luvit-releases"]
+	path = luvit-releases
+	url = git@github.com:luvit/luvit-releases.git
+[submodule "luvit.io"]
+	path = luvit.io
+	url = git@github.com:luvit/luvit.io.git
+[submodule "modules.luvit.io"]
+	path = modules.luvit.io
+	url = git@github.com:luvit/modules.luvit.io.git
+[submodule "openssl"]
+	path = openssl
+	url = git@github.com:luvit/openssl.git
+[submodule "try.luvit.io"]
+	path = try.luvit.io
+	url = git@github.com:luvit/try.luvit.io.git
+[submodule "web"]
+	path = web
+	url = git@github.com:luvit/web.git
+[submodule "web-autoheaders"]
+	path = web-autoheaders
+	url = git@github.com:luvit/web-autoheaders.git
+[submodule "web-router"]
+	path = web-router
+	url = git@github.com:luvit/web-router.git
+[submodule "web-static"]
+	path = web-static
+	url = git@github.com:luvit/web-static.git
+[submodule "zlib"]
+	path = zlib
+	url = git@github.com:luvit/zlib.git
